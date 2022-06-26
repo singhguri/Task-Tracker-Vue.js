@@ -1,0 +1,52 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "March 1st at 2:30pm",
+      "reminder": false,
+      "isDeleted": false
+    },
+    {
+      "id": 2,
+      "text": "Meeting at school",
+      "day": "March 3rd at 1:30pm",
+      "reminder": true,
+      "isDeleted": false
+    },
+    {
+      "id": 60790,
+      "text": "test",
+      "day": "test",
+      "reminder": true
+    },
+    {
+      "id": 85779,
+      "text": "dfasf",
+      "day": "asfd",
+      "reminder": false,
+      "isDeleted": true
+    },
+    {
+      "id": 72698,
+      "text": "asfd",
+      "day": "asdf",
+      "reminder": false,
+      "isDeleted": true
+    },
+    {
+      "id": 90248,
+      "text": "asd",
+      "day": "asd",
+      "reminder": false,
+      "isDeleted": true
+    },
+    {
+      "id": 86000,
+      "text": "abc",
+      "day": "abc",
+      "reminder": false,
+      "isDeleted": true
+    }
+  ]
+}
